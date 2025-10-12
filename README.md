@@ -97,7 +97,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/ayushdobhal](https://www.linkedin.com/in/ayush-dobhal-562a782b3/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-dobhal-562a782b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
   </a>
   <a href="mailto:ayushdobhal@example.com">
