@@ -74,7 +74,7 @@
 
 ### 🏆 Achievements
 
-🏅 Solved **120+ problems** on **LeetCode**  
+🏅 Solved **200+ problems** on **LeetCode**  
 ☁️ Earned **AWS Certified Cloud Practitioner**  
 💡 Built multiple full-stack apps integrating databases, authentication, and APIs  
 
