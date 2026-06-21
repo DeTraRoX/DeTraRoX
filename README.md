@@ -1,185 +1,101 @@
-<!-- Cyberpunk Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="banner.svg" alt="Ayush Dobhal Banner" width="100%" />
 </p>
 
-<!-- Dynamic Subtitle Typing -->
+<!-- Profile Badges -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=⚡+BCA+Student+%7C+Full+Stack+Developer;🚀+AI+Integration+%26+Cloud+Enthusiast;💻+Building+High-Throughput+APIs+%26+RAG;🏆+200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Badges Grid -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Core-00ffff?style=for-the-badge&logo=statuspage&logoColor=0d1117" alt="Status" />
-  <img src="https://img.shields.io/badge/Security-Authorized-00ffaa?style=for-the-badge&logo=shield&logoColor=0d1117" alt="Authorized" />
-  <img src="https://img.shields.io/badge/Cloud-AWS_Certified-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-ff9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/LeetCode-200+_Solved-ffa116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Status" />
+  <img src="https://img.shields.io/github/followers/DeTraRoX?label=Followers&style=flat&color=4f46e5" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DeTraRoX&label=Profile%20Views&color=4f46e5&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🖥️ System Diagnostics (Visitor Terminal)
+### 🏛️ Executive Summary
 
-```bash
-[system ~]# neofetch --user "Ayush Dobhal"
-```
+I am a **Full Stack Engineer** and **BCA student** focused on constructing high-throughput backends, cloud-native deployments, and intelligent AI retrieval systems. My engineering philosophy centers on clean architectural separation, database optimization, and premium user experience.
 
-```text
-       .---.          USER: Ayush Dobhal (DeTraRoX)
-      /     \         ROLE: Full Stack Developer & AI Builder
-      \_..._/         BCA: Bachelor of Computer Applications
-      |  _  |         HOST: AWS Cloud & Distributed Systems
-      | (_) |         LANGS: JavaScript, Python, C++, Java, SQL
-      |     |         ENGINE: React, Node.js, FastAPI, Django, Spring Boot
-      '---'           STATUS: Operational (Solving bugs, training systems)
-```
+* 🌐 **Full-Stack Development:** Specialized in designing robust REST APIs and responsive, state-driven interfaces.
+* ☁️ **Cloud Infrastructure:** Experienced in setting up secure, cost-optimized, and auto-scaling environments on AWS.
+* 🧠 **AI Integration:** Actively implementing Vector Retrieval Augmented Generation (RAG) and LLM-powered agents.
 
 ---
 
-## 🛠️ Tech Stack & Subsystems
+### 🛠️ Technology Subsystems
 
 <table width="100%">
   <tr>
-    <th width="30%">Layer</th>
-    <th width="70%">Technologies & Tools</th>
-  </tr>
-  <tr>
-    <td><b>💻 Languages</b></td>
+    <td width="20%"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00ffff" />
+      <code>Python</code> &bull; <code>JavaScript</code> &bull; <code>TypeScript</code> &bull; <code>C++</code> &bull; <code>Java</code> &bull; <code>SQL</code> &bull; <code>C</code>
     </td>
   </tr>
   <tr>
-    <td><b>🌐 Web Engineering</b></td>
+    <td width="20%"><b>Frameworks</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff99" />
-      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff99" />
-      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00ff99" />
-      <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=00ff99" />
-      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=ff00ff" />
-      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=ff00ff" />
+      <code>React</code> &bull; <code>Node.js</code> &bull; <code>FastAPI</code> &bull; <code>Django</code> &bull; <code>Spring Boot</code> &bull; <code>Flask</code> &bull; <code>Express</code>
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Storage & Search</b></td>
+    <td width="20%"><b>Databases & Search</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Elasticsearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=ff00ff" />
-      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff99" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=00ffff" />
+      <code>Elasticsearch</code> &bull; <code>MongoDB</code> &bull; <code>PostgreSQL</code> &bull; <code>MySQL</code> &bull; <code>SQLite</code>
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ Dev & Cloud Ops</b></td>
+    <td width="20%"><b>Tools & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=ff9900" />
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=00ffff" />
-      <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff00ff" />
+      <code>AWS</code> &bull; <code>Docker</code> &bull; <code>Git</code> &bull; <code>VS Code</code> &bull; <code>Postman</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Active Production Projects
+### 🚀 Featured Deployments
 
-<table>
-  <!-- Row 1: IntervAI & DocSearch -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ IntervAI Platform</h3>
-      <p><b>Core:</b> MERN Stack, WebRTC, Gemini AI Speech Analytics</p>
-      <p>A full-stack, enterprise-grade AI mock interview site enabling candidates to prepare with realistic conversational AI agents.</p>
-      <ul>
-        <li>🗣️ <b>Voice & Speech Logic:</b> Dynamic AI interviewer responses modeled to voice speech.</li>
-        <li>💻 <b>Coding Workspace:</b> Built-in code compilation playground.</li>
-        <li>📈 <b>Performance Metrics:</b> Automated resume parsing with telemetry scoring dashboard.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ffff" />
-        <img src="https://img.shields.io/badge/Node-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ffaa" />
-        <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=ff00ff" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 DocSearch Engine</h3>
-      <p><b>Core:</b> Elasticsearch, Gemini RAG, Express, OCR</p>
-      <p>A high-speed enterprise document indexing search platform featuring vector retrieval and OCR text extraction.</p>
-      <ul>
-        <li>📑 <b>Multi-Format Engine:</b> Processes PDF, DOCX, TXT, and scanned image logs via OCR.</li>
-        <li>⚡ <b>Sub-Second Queries:</b> Managed full-text indexing with Elasticsearch.</li>
-        <li>🔒 <b>SaaS Dashboard:</b> Secure JWT authenticated sessions and workspace controls.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Elasticsearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=ff00ff" />
-        <img src="https://img.shields.io/badge/RAG_AI-0d1117?style=flat-square&logo=google-gemini&logoColor=00ffff" />
-        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00ffaa" />
-      </p>
-    </td>
-  </tr>
-  
-  <!-- Row 2: VibeLink & SmartCare -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 VibeLink</h3>
-      <p><b>Core:</b> Flask, HTML/CSS, Socket.io, Friend Engine</p>
-      <p>A real-time socket application matching users together based on overlapping graph interest vectors.</p>
-      <ul>
-        <li>⚡ <b>Real-Time Chat:</b> Fast WebSocket channels for concurrent user chats.</li>
-        <li>🧠 <b>Friend Suggestions:</b> Similarity-scoring recommendation algorithms.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/DeTraRoX/vibelink_project">
-          <img src="https://img.shields.io/badge/Repository-DeTraRoX--VibeLink-00ffff?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 SmartCare</h3>
-      <p><b>Core:</b> Django, Python, SQLite, Predictive Logic</p>
-      <p>Hospital load allocation dashboard dynamically optimizing logistics for clinical resources.</p>
-      <ul>
-        <li>📊 <b>Live Tracking:</b> Track active emergency bed counts and machinery.</li>
-        <li>⚙️ <b>Resource Allocation:</b> Smart predictive assignment rules based on patient severity.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/DeTraRoX/Hospital-Resource-Allocation-System">
-          <img src="https://img.shields.io/badge/Repository-DeTraRoX--SmartCare-ff00ff?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🎙️ IntervAI — Technical Interview Platform
+* **Overview:** A production-grade MERN platform conducting automated technical mock interviews using conversational AI.
+* **Architecture:** Integrated live voice speech inputs with LLM generation models and an active code-execution sandbox.
+* **Telemetry:** Displays comprehensive candidate review scores, speech telemetry, and AI-driven resume analysis.
+* **Tech Stack:** `React` &bull; `Node.js` &bull; `MongoDB` &bull; `Gemini API` &bull; `WebRTC`
+
+#### 🔍 DocSearch — Enterprise Document Retrieval System
+* **Overview:** A secure document indexer with sub-second text retrieval and integrated Gemini RAG assistant chat.
+* **Features:** Automatic parsing of PDFs, DOCX, TXT files, and scanned imagery via a customized OCR engine.
+* **Infrastructure:** High-performance full-text searching powered by Elasticsearch, with session safety via JWT.
+* **Tech Stack:** `Express` &bull; `Elasticsearch` &bull; `RAG` &bull; `React` &bull; `JWT Auth`
+
+#### 💬 VibeLink — Real-time Social Matching Engine
+* **Overview:** Real-time socket communication portal matching users based on matching interest graphs.
+* **Implementation:** Event-driven Socket.IO connections with an automated matching recommendation algorithm.
+* **Tech Stack:** `Flask` &bull; `Socket.IO` &bull; `HTML/CSS` &bull; `Javascript` &bull; [Repository](https://github.com/DeTraRoX/vibelink_project)
+
+#### 🏥 SmartCare — Hospital Resource Allocation Portal
+* **Overview:** Smart hospital management dashboard optimizing equipment, room, and personnel deployment.
+* **Logic:** Dynamic allocation algorithms balancing load based on patient severity levels and hospital capacity.
+* **Tech Stack:** `Django` &bull; `Python` &bull; `SQLite` &bull; [Repository](https://github.com/DeTraRoX/Hospital-Resource-Allocation-System)
 
 ---
 
-## 📊 Live System Activity & Telemetry
+### 📊 System Activity & Metrics
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DeTraRoX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00ffff&icon_color=00ff99&title_color=ff00ff" width="95%" />
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=DeTraRoX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8b9bb4&icon_color=6366f1&title_color=ffffff" width="100%" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=DeTraRoX&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ff99&currStreakLabel=00ff99" width="95%" />
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DeTraRoX&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1" width="100%" />
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center" colspan="2" width="100%">
         <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeTraRoX&theme=tokyonight&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ff99&hide_border=true" width="100%" alt="Activity Graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeTraRoX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8b9bb4&title_color=ffffff" width="100%" />
       </td>
     </tr>
   </table>
@@ -187,44 +103,19 @@
 
 ---
 
-## 🏅 System Credentials & Milestones
-
-<table width="100%">
-  <tr>
-    <td width="15%" align="center"><h1>🏆</h1></td>
-    <td width="85%">
-      <b>Algorithms & Problem Solving</b><br/>
-      Solved over <b>350+ complex algorithms</b> on LeetCode. High focus on performance optimization, graph matrices, and tree traversal algorithms.
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><h1>☁️</h1></td>
-    <td width="85%">
-      <b>AWS Certified Cloud Practitioner</b><br/>
-      Validated capability in core cloud infrastructures, cloud security best practices, scalable VPC structures, and resource optimization methods.
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Signal Connections (Contact)
+### 🌐 Secure Link Establisher
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-dobhal-562a782b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0ea5e9" />
   </a>
-  <a href="mailto:ayushdobhal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00ff" />
+  <a href="mailto:ayushdobhal@example.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" />
   </a>
   <a href="https://github.com/DeTraRoX">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=ffffff" />
   </a>
   <a href="https://leetcode.com/u/DeTraRoX/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff9900" />
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116" />
   </a>
-</p>
-
-<p align="center">
-  <sub>⚡ Powered by Markdown &amp; Cyber-Grids. Systems operational. ⚡</sub>
 </p>
