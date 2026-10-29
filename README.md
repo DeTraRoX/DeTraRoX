@@ -61,7 +61,7 @@ Hey there! I'm Ayush Dobhal, a BCA student at Graphic Era Deemed To Be Universit
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assets/logos/finora.svg" width="82" alt="Finora logo"/><br/>
+<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assests/logos/finora.svg" width="82" alt="Finora logo"/><br/>
 <strong>Finora</strong><br/>
 <sub>Digital Wallet Platform</sub><br/><br/>
 <sub>Wallet management, balance tracking, transactions, and real-time interactions.</sub><br/><br/>
@@ -69,7 +69,7 @@ Hey there! I'm Ayush Dobhal, a BCA student at Graphic Era Deemed To Be Universit
 <a href="https://github.com/DeTraRoX/Finora"><img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View Finora"/></a>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assets/logos/sketchforge.svg" width="82" alt="SketchForge logo"/><br/>
+<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assests/logos/sketchforge.svg" width="82" alt="SketchForge logo"/><br/>
 <strong>SketchForge</strong><br/>
 <sub>Collaborative Drawing Platform</sub><br/><br/>
 <sub>Collaborative drawing, diagrams, rooms, and AI-assisted diagram generation.</sub><br/><br/>
@@ -77,7 +77,7 @@ Hey there! I'm Ayush Dobhal, a BCA student at Graphic Era Deemed To Be Universit
 <a href="https://github.com/DeTraRoX/SketchForge"><img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View SketchForge"/></a>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assets/logos/intervai.svg" width="82" alt="IntervAI logo"/><br/>
+<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assests/logos/intervai.svg" width="82" alt="IntervAI logo"/><br/>
 <strong>IntervAI</strong><br/>
 <sub>AI Interview Practice</sub><br/><br/>
 <sub>Interview preparation with AI-assisted questions and an interactive coding interface.</sub><br/><br/>
@@ -85,7 +85,7 @@ Hey there! I'm Ayush Dobhal, a BCA student at Graphic Era Deemed To Be Universit
 <a href="https://github.com/DeTraRoX/IntervAI"><img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View IntervAI"/></a>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assets/logos/docsearch.svg" width="82" alt="DocSearch logo"/><br/>
+<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assests/logos/docsearch.svg" width="82" alt="DocSearch logo"/><br/>
 <strong>DocSearch</strong><br/>
 <sub>Intelligent Document Search</sub><br/><br/>
 <sub>Document search and retrieval to make useful information easier to find.</sub><br/><br/>
@@ -93,7 +93,7 @@ Hey there! I'm Ayush Dobhal, a BCA student at Graphic Era Deemed To Be Universit
 <a href="https://github.com/DeTraRoX/DocSearch"><img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View DocSearch"/></a>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assets/logos/autodrive.svg" width="82" alt="AutoDrive logo"/><br/>
+<img src="https://raw.githubusercontent.com/DeTraRoX/DeTraRoX/main/assests/logos/autodrive.svg" width="82" alt="AutoDrive logo"/><br/>
 <strong>AutoDrive</strong><br/>
 <sub>Driver Monitoring & Safety</sub><br/><br/>
 <sub>Driver-monitoring concept focused on detecting drowsiness and improving road safety.</sub><br/><br/>
